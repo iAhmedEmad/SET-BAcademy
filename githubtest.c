@@ -1,5 +1,10 @@
 #include "stdlib"
-int main (){
+
+int main (void){
+
+
 printf("This is a github test");
+
+
 return 0;
 }
